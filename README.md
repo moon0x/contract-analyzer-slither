@@ -26,4 +26,5 @@ https://github.com/crytic/solc-select
 Please contact me if you need anything related to the project.
 ```
 Telegram: @bluepineme
+Whatsapp +7 9084638595
 ```
