@@ -22,5 +22,8 @@ solc-select
 https://github.com/crytic/slither
 https://github.com/crytic/solc-select
 ```
+## Do you need any help to run?
 Please contact me if you need anything related to the project.
+```
 Telegram: @bluepineme
+```
