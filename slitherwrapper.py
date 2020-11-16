@@ -11,4 +11,8 @@ def get_slither_result(address):
             print(line)
     p.wait()
 
-get_slither_result(sys.argv[1])
+def main():
+    get_slither_result(sys.argv[1])
+
+if __name__ == "__main__":
+    main()
